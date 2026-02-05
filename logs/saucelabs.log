@@ -1,0 +1,349 @@
+2026-02-03 11:43:51 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 11:43:51 - root - INFO - **************verification of admin login page title********************
+2026-02-03 11:43:52 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 11:43:55 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 11:43:57 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 11:44:01 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 11:44:03 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:20:36 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:20:36 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:20:37 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:20:41 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:20:42 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:20:46 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:20:48 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:23:40 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:23:40 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:23:41 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:23:53 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:23:55 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:24:06 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:24:08 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:24:29 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:24:29 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:24:29 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:24:33 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:24:35 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:24:39 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:24:40 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:32:33 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:32:37 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:32:37 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:32:37 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:32:39 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:32:40 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:32:41 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:33:08 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:33:08 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:33:08 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:33:11 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:33:11 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:33:17 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:33:20 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:41:10 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:41:10 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:41:18 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:41:21 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:41:24 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:41:27 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:41:36 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:42:58 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:42:58 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:43:01 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:43:06 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:43:08 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:43:12 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:43:14 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 13:57:27 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 13:57:27 - root - INFO - **************verification of admin login page title********************
+2026-02-03 13:57:29 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 13:57:34 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 13:57:37 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 13:57:41 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 13:57:42 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 23:22:39 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 23:22:39 - root - INFO - **************verification of admin login page title********************
+2026-02-03 23:22:42 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 23:22:46 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 23:22:49 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 23:22:55 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 23:22:57 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 23:23:01 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-03 23:23:08 - root - INFO - Test data is passed
+2026-02-03 23:25:22 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-03 23:25:22 - root - INFO - **************verification of admin login page title********************
+2026-02-03 23:25:24 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-03 23:25:27 - root - INFO - **************Test valid_admin_login page***************
+2026-02-03 23:25:29 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-03 23:25:33 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-03 23:25:34 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-03 23:31:06 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-03 23:31:14 - root - INFO - Test data is passed
+2026-02-03 23:32:25 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-03 23:32:33 - root - INFO - Test data is passed
+2026-02-03 23:46:52 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-03 23:46:59 - root - INFO - Test data is passed
+2026-02-03 23:48:37 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-03 23:48:48 - root - INFO - Test data is passed
+2026-02-03 23:50:12 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-03 23:50:19 - root - INFO - Test data is passed
+2026-02-03 23:52:23 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 13:07:47 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-04 13:07:47 - root - INFO - **************verification of admin login page title********************
+2026-02-04 13:07:48 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-04 13:07:52 - root - INFO - **************Test valid_admin_login page***************
+2026-02-04 13:07:53 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-04 13:07:56 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-04 13:07:57 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-04 14:04:44 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:22:28 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:25:29 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:25:37 - root - INFO - Test data is passed
+2026-02-04 14:29:48 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:29:56 - root - INFO - Test data is passed
+2026-02-04 14:34:17 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:47:20 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:47:27 - root - INFO - Test data is passed
+2026-02-04 14:50:31 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 14:50:39 - root - INFO - Test data failed
+2026-02-04 14:50:44 - root - INFO - Test data failed
+2026-02-04 14:50:50 - root - INFO - Test data failed
+2026-02-04 14:50:50 - root - INFO - Test admin data drive test is failed
+2026-02-04 15:02:43 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-04 15:02:43 - root - INFO - **************verification of admin login page title********************
+2026-02-04 15:02:44 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-04 15:02:47 - root - INFO - **************Test valid_admin_login page***************
+2026-02-04 15:02:48 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-04 15:02:52 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-04 15:02:53 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-04 15:02:56 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 15:03:53 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-04 15:03:53 - root - INFO - **************verification of admin login page title********************
+2026-02-04 15:03:54 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-04 15:03:57 - root - INFO - **************Test valid_admin_login page***************
+2026-02-04 15:03:58 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-04 15:04:02 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-04 15:04:03 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-04 15:04:06 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 15:04:13 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49366): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1dfafc2a12bc7f64075628e114e2140a
+2026-02-04 15:04:17 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49366): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1dfafc2a12bc7f64075628e114e2140a
+2026-02-04 15:04:21 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49366): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1dfafc2a12bc7f64075628e114e2140a
+2026-02-04 15:04:29 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49366): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1dfafc2a12bc7f64075628e114e2140a
+2026-02-04 15:04:33 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49366): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1dfafc2a12bc7f64075628e114e2140a
+2026-02-04 15:04:37 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49366): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/1dfafc2a12bc7f64075628e114e2140a
+2026-02-04 15:05:44 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-04 15:05:44 - root - INFO - **************verification of admin login page title********************
+2026-02-04 15:05:44 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-04 15:05:48 - root - INFO - **************Test valid_admin_login page***************
+2026-02-04 15:05:49 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-04 15:05:52 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-04 15:05:53 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-04 15:05:56 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 15:06:03 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49493): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c55b1207c19042b10f205d045c94e389
+2026-02-04 15:06:07 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49493): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c55b1207c19042b10f205d045c94e389
+2026-02-04 15:06:11 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49493): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c55b1207c19042b10f205d045c94e389
+2026-02-04 15:06:19 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49493): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c55b1207c19042b10f205d045c94e389
+2026-02-04 15:06:23 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49493): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c55b1207c19042b10f205d045c94e389
+2026-02-04 15:06:27 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=49493): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/c55b1207c19042b10f205d045c94e389
+2026-02-04 21:47:54 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 21:48:05 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=50971): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/f7bf3fb59aed9a69237b11de8f946d21/element
+2026-02-04 21:48:09 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=50971): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/f7bf3fb59aed9a69237b11de8f946d21/element
+2026-02-04 21:48:13 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=50971): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/f7bf3fb59aed9a69237b11de8f946d21/element
+2026-02-04 21:53:46 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 21:53:56 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51110): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afa0a40c3595f438c7f50a66c9667851/element
+2026-02-04 21:54:00 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51110): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afa0a40c3595f438c7f50a66c9667851/element
+2026-02-04 21:54:04 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=51110): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/afa0a40c3595f438c7f50a66c9667851/element
+2026-02-04 21:54:19 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 21:54:28 - root - INFO - Test data is passed
+2026-02-04 21:57:18 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 21:57:30 - root - INFO - Test data is passed
+2026-02-04 21:58:34 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 21:58:48 - root - INFO - Test data is passed
+2026-02-04 21:59:56 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:00:13 - root - INFO - Test data is passed
+2026-02-04 22:01:04 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:01:12 - root - INFO - Test data is passed
+2026-02-04 22:09:13 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:09:24 - root - INFO - Test data is passed
+2026-02-04 22:12:30 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:18:59 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:19:53 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:39:24 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:39:35 - root - INFO - Test data is passed
+2026-02-04 22:41:37 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:41:47 - root - INFO - Test data is passed
+2026-02-04 22:46:53 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:46:55 - root - INFO - Expected login status: Yes
+2026-02-04 22:46:55 - root - INFO - Test data is passed
+2026-02-04 22:46:58 - root - INFO - Logout Button is clicked
+2026-02-04 22:46:59 - root - INFO - Expected login status: No
+2026-02-04 22:46:59 - root - INFO - Test data failed
+2026-02-04 22:46:59 - root - INFO - Expected login status: Yes
+2026-02-04 22:46:59 - root - INFO - Test data is passed
+2026-02-04 22:47:02 - root - INFO - Logout Button is clicked
+2026-02-04 22:47:02 - root - INFO - Test admin data drive test is failed
+2026-02-04 22:49:26 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:49:29 - root - INFO - Expected login status: Yes
+2026-02-04 22:49:29 - root - INFO - Test data is passed
+2026-02-04 22:49:32 - root - INFO - Logout Button is clicked
+2026-02-04 22:49:33 - root - INFO - Expected login status: No
+2026-02-04 22:49:33 - root - INFO - Test data failed
+2026-02-04 22:49:33 - root - INFO - Expected login status: Yes
+2026-02-04 22:49:33 - root - INFO - Test data is passed
+2026-02-04 22:49:36 - root - INFO - Logout Button is clicked
+2026-02-04 22:49:36 - root - INFO - Test admin data drive test is failed
+2026-02-04 22:51:03 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:51:06 - root - INFO - Expected login status: Yes
+2026-02-04 22:51:06 - root - INFO - Test data is passed
+2026-02-04 22:51:09 - root - INFO - Logout Button is clicked
+2026-02-04 22:51:09 - root - INFO - Expected login status: No
+2026-02-04 22:51:09 - root - INFO - Test data failed
+2026-02-04 22:51:10 - root - INFO - Expected login status: Yes
+2026-02-04 22:51:10 - root - INFO - Test data is passed
+2026-02-04 22:51:13 - root - INFO - Logout Button is clicked
+2026-02-04 22:51:13 - root - INFO - Test admin data drive test is failed
+2026-02-04 22:54:02 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 22:54:04 - root - INFO - Expected login status: Yes
+2026-02-04 22:54:04 - root - INFO - Test data is passed
+2026-02-04 22:54:07 - root - INFO - Logout Button is clicked
+2026-02-04 22:54:08 - root - INFO - Expected login status: No
+2026-02-04 22:54:08 - root - INFO - Test data failed
+2026-02-04 22:54:08 - root - INFO - Expected login status: Yes
+2026-02-04 22:54:08 - root - INFO - Test data is passed
+2026-02-04 22:54:11 - root - INFO - Logout Button is clicked
+2026-02-04 22:54:11 - root - INFO - Test admin data drive test is passed
+2026-02-04 23:05:03 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 23:05:06 - root - INFO - Test data is failed
+2026-02-04 23:12:11 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 23:12:15 - root - INFO - Test data is failed
+2026-02-04 23:14:25 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 23:14:28 - root - INFO - Test data is failed
+2026-02-04 23:25:52 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 23:27:07 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 23:27:09 - root - INFO - Expected login status: Yes
+2026-02-04 23:27:09 - root - INFO - Test data is passed
+2026-02-04 23:27:12 - root - INFO - Logout Button is clicked
+2026-02-04 23:27:13 - root - INFO - Expected login status: No
+2026-02-04 23:27:13 - root - INFO - Test data failed
+2026-02-04 23:27:13 - root - INFO - Expected login status: No
+2026-02-04 23:27:13 - root - INFO - Test data failed
+2026-02-04 23:27:13 - root - INFO - Test admin data drive test is passed
+2026-02-04 23:52:26 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-04 23:52:26 - root - INFO - **************verification of admin login page title********************
+2026-02-04 23:52:28 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-04 23:52:32 - root - INFO - **************Test valid_admin_login page***************
+2026-02-04 23:52:34 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-04 23:52:38 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-04 23:52:40 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-04 23:52:43 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-04 23:52:45 - root - INFO - Expected login status: Yes
+2026-02-04 23:52:45 - root - INFO - Test data is passed
+2026-02-04 23:52:49 - root - INFO - Logout Button is clicked
+2026-02-04 23:52:50 - root - INFO - Expected login status: No
+2026-02-04 23:52:50 - root - INFO - Test data failed
+2026-02-04 23:52:50 - root - INFO - Expected login status: No
+2026-02-04 23:52:50 - root - INFO - Test data failed
+2026-02-04 23:52:50 - root - INFO - Test admin data drive test is passed
+2026-02-05 00:05:54 - root - INFO - **************Test valid_admin_login page***************
+2026-02-05 00:05:58 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-05 00:24:10 - root - INFO - **************Test valid_admin_login page***************
+2026-02-05 00:24:12 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-05 00:24:19 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=57097): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3c37c58523e9a6ebdce99264dd301dd3
+2026-02-05 00:24:23 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=57097): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3c37c58523e9a6ebdce99264dd301dd3
+2026-02-05 00:24:27 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=57097): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/3c37c58523e9a6ebdce99264dd301dd3
+2026-02-05 00:28:36 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-05 00:28:36 - root - INFO - **************verification of admin login page title********************
+2026-02-05 00:28:40 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-05 00:28:46 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218966A2490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4c4fad853483d4eb5610827b343c7cf
+2026-02-05 00:28:50 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218966A2710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4c4fad853483d4eb5610827b343c7cf
+2026-02-05 00:28:54 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000218976ACE90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4c4fad853483d4eb5610827b343c7cf
+2026-02-05 00:29:00 - root - INFO - **************Test valid_admin_login page***************
+2026-02-05 00:29:03 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-05 00:29:09 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002189663B9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3d6007016b90f9b0814a5025abe00044
+2026-02-05 00:29:13 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002189663BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3d6007016b90f9b0814a5025abe00044
+2026-02-05 00:29:17 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002189772C160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3d6007016b90f9b0814a5025abe00044
+2026-02-05 00:29:23 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-05 00:29:24 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-05 00:29:31 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002189772C9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bb8468272cf675fd8ec940335c09d8f1
+2026-02-05 00:29:35 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002189772CF30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bb8468272cf675fd8ec940335c09d8f1
+2026-02-05 00:29:39 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002189772D260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/bb8468272cf675fd8ec940335c09d8f1
+2026-02-05 00:29:44 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-05 00:29:45 - root - INFO - Expected login status: Yes
+2026-02-05 00:29:45 - root - INFO - Test data is passed
+2026-02-05 00:29:49 - root - INFO - Logout Button is clicked
+2026-02-05 00:30:18 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-05 00:30:18 - root - INFO - **************verification of admin login page title********************
+2026-02-05 00:30:18 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-05 00:30:25 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDDE2490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/583b3656163ea28e89a7920dd33a077b
+2026-02-05 00:30:29 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDDE2710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/583b3656163ea28e89a7920dd33a077b
+2026-02-05 00:30:33 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE1CD60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/583b3656163ea28e89a7920dd33a077b
+2026-02-05 00:30:38 - root - INFO - **************Test valid_admin_login page***************
+2026-02-05 00:30:40 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-05 00:30:46 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDD7BAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/352ac48d99c8e305cda7f06c00bd639b
+2026-02-05 00:30:50 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDD7BDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/352ac48d99c8e305cda7f06c00bd639b
+2026-02-05 00:30:54 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE9C270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/352ac48d99c8e305cda7f06c00bd639b
+2026-02-05 00:31:00 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-05 00:31:01 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-05 00:31:07 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE9CAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/74f1986998f965b5ad1e04ec4bec5b42
+2026-02-05 00:31:11 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE9D040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/74f1986998f965b5ad1e04ec4bec5b42
+2026-02-05 00:31:16 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE9D370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/74f1986998f965b5ad1e04ec4bec5b42
+2026-02-05 00:31:21 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-05 00:31:24 - root - INFO - Expected login status: Yes
+2026-02-05 00:31:24 - root - INFO - Test data is passed
+2026-02-05 00:31:27 - root - INFO - Logout Button is clicked
+2026-02-05 00:31:27 - root - INFO - Expected login status: No
+2026-02-05 00:31:27 - root - INFO - Test data failed
+2026-02-05 00:31:28 - root - INFO - Expected login status: No
+2026-02-05 00:31:28 - root - INFO - Test data failed
+2026-02-05 00:31:28 - root - INFO - Test admin data drive test is passed
+2026-02-05 00:31:35 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDD7B350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/25494f70088629ca8cbef3dcabfcc3b1
+2026-02-05 00:31:39 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE9C8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/25494f70088629ca8cbef3dcabfcc3b1
+2026-02-05 00:31:43 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000199DDE9D590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/25494f70088629ca8cbef3dcabfcc3b1
+2026-02-05 00:38:10 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-05 00:38:10 - root - INFO - **************verification of admin login page title********************
+2026-02-05 00:38:12 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-05 00:38:18 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B6F2490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b57f5af3e3a03de845f9253e43f44b4
+2026-02-05 00:38:22 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B6F2710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b57f5af3e3a03de845f9253e43f44b4
+2026-02-05 00:38:27 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B728E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b57f5af3e3a03de845f9253e43f44b4
+2026-02-05 00:38:32 - root - INFO - **************Test valid_admin_login page***************
+2026-02-05 00:38:33 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-05 00:38:39 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B68BAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a7ca5f7b1b2fe12eb21211cefe36bd8b
+2026-02-05 00:38:44 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B68BDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a7ca5f7b1b2fe12eb21211cefe36bd8b
+2026-02-05 00:38:48 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B7AC270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a7ca5f7b1b2fe12eb21211cefe36bd8b
+2026-02-05 00:38:53 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-05 00:38:55 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-05 00:39:02 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B7ACAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a9b45e473317b0a1239db8b95607a55
+2026-02-05 00:39:06 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B7AD040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a9b45e473317b0a1239db8b95607a55
+2026-02-05 00:39:10 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50B7AD370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2a9b45e473317b0a1239db8b95607a55
+2026-02-05 00:39:16 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-05 00:39:18 - root - INFO - Expected login status: Yes
+2026-02-05 00:39:18 - root - INFO - Test data is passed
+2026-02-05 00:39:21 - root - INFO - Logout Button is clicked
+2026-02-05 00:41:06 - root - INFO - **************Test_01_Admin_Login********************
+2026-02-05 00:41:06 - root - INFO - **************verification of admin login page title********************
+2026-02-05 00:41:07 - root - INFO - **************Test title_verifications is matched*****************
+2026-02-05 00:41:14 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876C22490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2c1a56ab8bef499e7f117c16cffefaa7
+2026-02-05 00:41:18 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876C22710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2c1a56ab8bef499e7f117c16cffefaa7
+2026-02-05 00:41:22 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876C58E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2c1a56ab8bef499e7f117c16cffefaa7
+2026-02-05 00:41:28 - root - INFO - **************Test valid_admin_login page***************
+2026-02-05 00:41:29 - root - INFO - **************Test valid_admin_login is valid***************
+2026-02-05 00:41:35 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876BBBAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/07496def92e3d8bba34ad624451629fc
+2026-02-05 00:41:40 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876BBBDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/07496def92e3d8bba34ad624451629fc
+2026-02-05 00:41:44 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876CDC270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/07496def92e3d8bba34ad624451629fc
+2026-02-05 00:41:50 - root - INFO - **************Test invalid_admin_login page***************
+2026-02-05 00:41:52 - root - INFO - **************Test invalid_admin_login is Expected error***************
+2026-02-05 00:41:58 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876CDCAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0ae046d0377288ae27c9d8463281933
+2026-02-05 00:42:02 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876CDD040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0ae046d0377288ae27c9d8463281933
+2026-02-05 00:42:06 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876CDD370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0ae046d0377288ae27c9d8463281933
+2026-02-05 00:42:12 - root - INFO - **************Test valid_admin_login page data driven started***************
+2026-02-05 00:42:14 - root - INFO - Expected login status: Yes
+2026-02-05 00:42:14 - root - INFO - Test data is passed
+2026-02-05 00:42:17 - root - INFO - Logout Button is clicked
+2026-02-05 00:42:17 - root - INFO - Expected login status: No
+2026-02-05 00:42:17 - root - INFO - Test data failed
+2026-02-05 00:42:18 - root - INFO - Expected login status: No
+2026-02-05 00:42:18 - root - INFO - Test data failed
+2026-02-05 00:42:18 - root - INFO - Test admin data drive test is passed
+2026-02-05 00:42:24 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876BBB350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fbacb406143f3f4d57412c2534667033
+2026-02-05 00:42:29 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876CDC8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fbacb406143f3f4d57412c2534667033
+2026-02-05 00:42:33 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026876CDD590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fbacb406143f3f4d57412c2534667033
